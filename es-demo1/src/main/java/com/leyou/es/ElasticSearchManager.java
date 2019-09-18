@@ -53,10 +53,7 @@ public class ElasticSearchManager {
             System.out.println(sourceAsString);
         }
     }
-   @Test
-   public void zifan(){
-	   System.out.println("张子凡");
-   }
+  
 
     @Test
     public void buliangshuai(){
