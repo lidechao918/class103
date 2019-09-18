@@ -53,12 +53,9 @@ public class ElasticSearchManager {
             System.out.println(sourceAsString);
         }
     }
-  
 
-    @Test
-    public void buliangshuai(){
-	 System.out.println("不良帅");
-}
+
+
 
     @After
     public void end(){
